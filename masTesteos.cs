@@ -1,1 +1,1 @@
-Console.WriteLine("dale putooo");
+Console.WriteLine("no le des puto");
